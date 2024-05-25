@@ -1,0 +1,5 @@
+1. https://www.sciencedirect.com/science/article/pii/S2949719124000049#sec1 <- LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
+2. https://arxiv.org/abs/2402.08831 <- eCeLLM: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data
+
+3. https://www.researchgate.net/publication/379954342_Optimizing_ECommerce_Listing_LLM_Based_Description_and_Keyword_Generation_from_Multimodal_Data
+Optimizing ECommerce Listing: LLM Based Description and Keyword Generation from Multimodal Data
