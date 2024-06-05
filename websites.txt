@@ -4,6 +4,6 @@
 3. https://www.researchgate.net/publication/379954342_Optimizing_ECommerce_Listing_LLM_Based_Description_and_Keyword_Generation_from_Multimodal_Data
 Optimizing ECommerce Listing: LLM Based Description and Keyword Generation from Multimodal Data
 
-4. CTR BERT: https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf
+4. CTR BERT: https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf (34 citations)
 5. Llama-E: https://arxiv.org/abs/2308.04913
 6. Relevance modelling for e-commerce and LLM retrieval: https://arxiv.org/abs/2406.02135
